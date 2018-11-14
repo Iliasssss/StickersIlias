@@ -1,0 +1,244 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "kidsss",
+      "publisher": "Iliasss",
+      "tray_image_file": "icons.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      	{
+          "image_file": "albert.webp"
+        },
+        {
+          "image_file": "bruna1.webp"
+        },
+        {
+          "image_file": "bruna2.webp"
+        },
+        {
+          "image_file": "coen.webp"
+        },
+        {
+          "image_file": "coenn.webp"
+        },
+        {
+          "image_file": "coennn.webp"
+        },
+        {
+          "image_file": "coennnn.webp"
+        },
+        {
+          "image_file": "coennnnn.webp"
+        },
+        {
+          "image_file": "coennnnnn.webp"
+        },
+
+        {
+          "image_file": "doorzichtig.webp"
+        },
+{
+          "image_file": "hamza.webp"
+        },
+        {
+          "image_file": "quincy.webp"
+        },
+        {
+          "image_file": "quincy2.webp"
+        },
+      {
+          "image_file": "natan.webp"
+        },
+        {
+          "image_file": "seher.webp"
+        },
+        {
+          "image_file": "seher2.webp"
+        },
+        {
+          "image_file": "seher3.webp"
+        },
+        {
+          "image_file": "stuart.webp"
+        },
+        {
+          "image_file": "sil.webp"
+        },
+        {
+          "image_file": "sofia.webp"
+        },
+        {
+          "image_file": "sophie.webp"
+        },
+        {
+          "image_file": "sophie.webp"
+        },
+        {
+          "image_file": "per.webp"
+        },
+        {
+          "image_file": "zjuul.webp"
+        }
+        
+      ]
+    },
+
+     {
+      "identifier": "2",
+      "name": "Teachers",
+      "publisher": "Iliasss",
+      "tray_image_file": "icons.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "corina.webp"
+        },
+        {
+          "image_file": "doorzichtig.webp"
+        },
+        {
+          "image_file": "genuchten.webp"
+        },
+        {
+          "image_file": "jonkerpauw.webp"
+        },
+        {
+          "image_file": "klundert.webp"
+        },
+        {
+          "image_file": "maat.webp"
+        },
+        {
+          "image_file": "molli.webp"
+        },
+        {
+          "image_file": "morgan.webp"
+        },
+        {
+          "image_file": "pieter.webp"
+        },
+        {
+          "image_file": "raaijmakers.webp"
+        },
+        {
+          "image_file": "vdassem.webp"
+        },
+        {
+          "image_file": "verlaek1.webp"
+        },
+        {
+          "image_file": "verlaek2.webp"
+        },
+        {
+          "image_file": "verlaek3.webp"
+        },
+        {
+          "image_file": "verlaek4.webp"
+        },
+        {
+          "image_file": "zuilen.webp"
+        }
+        
+        
+      ]
+    },
+
+    {
+      "identifier": "3",
+      "name": "Random",
+      "publisher": "Iliasss",
+      "tray_image_file": "icons.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "slipper.webp"
+        },
+        {
+          "image_file": "hond.webp"
+        },
+        {
+          "image_file": "doorzichtig.webp"
+        },
+        {
+          "image_file": "bigshaq.webp"
+        },
+      
+         {
+          "image_file": "8ball.webp"
+        },
+         {
+          "image_file": "ralph.webp"
+        }
+       
+        
+      ]
+    },
+
+    {
+      "identifier": "4",
+      "name": "Kidssss",
+      "publisher": "Iliasss",
+      "tray_image_file": "icons.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+       {
+          "image_file": "alya.webp"
+        },
+        {
+          "image_file": "bram.webp"
+        },
+{
+          "image_file": "freek.webp"
+        },
+{
+          "image_file": "marina.webp"
+        },
+        {
+          "image_file": "merel.webp"
+        },
+        {
+          "image_file": "merell.webp"
+        },
+ {
+          "image_file": "renee.webp"
+        },
+        {
+          "image_file": "reneee.webp"
+        },
+ {
+          "image_file": "thijmen.webp"
+        },
+        {
+          "image_file": "tijn.webp"
+        },
+        {
+          "image_file": "tijnn.webp"
+        },
+        {
+          "image_file": "tijnnn.webp"
+        },
+
+         {
+          "image_file": "doorzichtig.webp"
+        }
+       
+        
+      ]
+    }
+  ]
+}
